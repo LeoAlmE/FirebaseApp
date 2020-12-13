@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "227027301477",
+    "firebase_url": "https://datafirebase-a315c-default-rtdb.firebaseio.com",
+    "project_id": "datafirebase-a315c",
+    "storage_bucket": "datafirebase-a315c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227027301477:android:781604fe5f5e5588eb428c",
+        "android_client_info": {
+          "package_name": "utng.edu.mx.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227027301477-nl4n4lt932tf99943v6s9a3qr4c2fmms.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "utng.edu.mx.firebaseapp",
+            "certificate_hash": "c92b3f0aa3bcd1edc6f07ebb8159828f20a33a30"
+          }
+        },
+        {
+          "client_id": "227027301477-rotu0ou1dh0qh19ngtbo76qosapev1fd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8NuXNj0Wd0tgFRvBYekox4dvq2CRQ2AA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227027301477-rotu0ou1dh0qh19ngtbo76qosapev1fd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
